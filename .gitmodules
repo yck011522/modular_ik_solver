@@ -4,3 +4,13 @@
 [submodule "ext/glfw"]
 	path = ext/glfw
 	url = https://github.com/glfw/glfw
+[submodule "ext/eigen"]
+	path = ext/eigen
+	url = https://github.com/eigenteam/eigen-git-mirror
+[submodule "ext/websocketpp"]
+	path = ext/websocketpp
+	url = https://github.com/zaphoyd/websocketpp
+[submodule "ext/asio"]
+	path = ext/asio
+	url = https://github.com/chriskohlhoff/asio.git
+	branch = asio-1-12-branch
